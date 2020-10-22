@@ -4,15 +4,11 @@ Here you can find what I'm currently working on and my recent projects.
 
 ### I'm looking for a job.
 
-<!--
-**dludwin/dludwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on React Netflix clone
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on anything
+- 🤔 I’m looking for help with Java Spring
+- 💬 Ask me about anything
+- 📫 How to reach me: dominludwin7@gmail.com
+- 😄 Pronouns: "Give me two pronouns" - Who, Me?
+- ⚡ Fun fact: Sharks don't know that camels exist.
