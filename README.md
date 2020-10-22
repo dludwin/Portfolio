@@ -5,7 +5,7 @@ Here you can find what I'm currently working on, my recent projects and contact 
 ### I'm looking for a job.
 
 ### Known languages, frameworks and tools: 
-### - HTML5, CSS3, Javascript, React, [vue.js], [ Node.js ], [ GraphQL ] 
+### - HTML, CSS3, Javascript, React, [vue.js], [ Node.js ], [ GraphQL ] 
 
 - 🔭 I’m currently working on React Netflix clone
 - 🌱 I’m currently learning React
