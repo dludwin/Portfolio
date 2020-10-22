@@ -1,5 +1,5 @@
 ### Hello everyone and welcome on my github !
-I'm Computer Science student and if I have some time to spare then I do courses of Front End technology. 
+I'm Computer Science student and if I have some time to spare then I do courses on Front and Back end technology. 
 Here you can find what I'm currently working on and my recent projects. 
 
 ### I'm looking for a job.
