@@ -17,5 +17,5 @@ Here you can find what I'm currently working on, my recent projects and contact 
 - ⚡ Fun fact: Sharks don't know that camels exist.
 
 ### You can find me on:
-LinkedIn: https://www.linkedin.com/in/dominik-ludwin-a144b2158/
-Mail: dominludwin7@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dominik-ludwin-a144b2158/
+- Mail: dominludwin7@gmail.com
