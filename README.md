@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hello everyone and welcome on my github !
+I'm Computer Science student and if I have some time to spare then I do courses of Front End technology. 
+Here you can find what I'm currently working on and my recent projects. 
+
+### I'm looking for a job.
 
 <!--
 **dludwin/dludwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on React Netflix clone
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
