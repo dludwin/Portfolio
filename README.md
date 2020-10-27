@@ -1,4 +1,4 @@
-I'm Computer Science student and if I have some time to spare then I do courses on Front and Back end technology. 
+Computer Science student. I'm learning Front/Back technology from courses and tutorials. 
 
 ### - HTML, CSS3, Javascript, React
 
