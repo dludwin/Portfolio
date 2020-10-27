@@ -3,10 +3,11 @@ I'm Computer Science student and if I have some time to spare then I do courses 
 Here you can find what I'm currently working on, my recent projects and contact information. 
 
 ### Known languages, frameworks and tools: 
-### - HTML, CSS3, Javascript, React, [vue.js], [ Node.js ], [ GraphQL ] 
+### - HTML, CSS3, Javascript, React
+
 
 - 🔭 I’m currently working on React Netflix clone
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning , [vue.js], [ Node.js ], [ GraphQL ] 
 - 👯 I’m looking to collaborate on your project
 - 🤔 I’m looking for help with Java Spring
 - 💬 Ask me about availability
