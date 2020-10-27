@@ -7,6 +7,7 @@ Computer Science student. I'm learning Front/Back technology from courses and tu
 
 What I've done:
 ### My-First-React-app : https://first-react-app-dominikludwin.netlify.app/
+### Netflix-Clone : https://netflix-clone-dominikludwin.netlify.app/
 
 ### You can find me on:
 - LinkedIn: https://www.linkedin.com/in/dominik-ludwin-a144b2158/
