@@ -2,7 +2,7 @@
 
 - I'm coding high-volume and scalable software
 - I'm Creating web applications using React/Node and other technologies
-- I Create back end services using Java, SQL, ReST
+- I Create back end services using Java Spring, SQL, ReST, Microservices
 - I Build and develop new user facing experiences
 - I will Partner closely with cross functional teams in design, product and other business units
 
