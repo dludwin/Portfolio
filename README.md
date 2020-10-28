@@ -1,10 +1,10 @@
 ### Computer Science student. I'm learning Front/Back technology from courses and tutorials. 
 
-- Code high-volume and scalable software
-- Create web applications using React/Node and other technologies
-- Create back end services using Java, SQL, ReST
-- Build and develop new user facing experiences
-- Partner closely with cross functional teams in design, product and other business units
+- I'm coding high-volume and scalable software
+- I'm Creating web applications using React/Node and other technologies
+- I Create back end services using Java, SQL, ReST
+- I Build and develop new user facing experiences
+- I will Partner closely with cross functional teams in design, product and other business units
 
 
 ### My-First-React-app : https://first-react-app-dominikludwin.netlify.app/
