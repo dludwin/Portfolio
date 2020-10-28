@@ -1,4 +1,4 @@
-### Computer Science student. I'm learning Front/Back technology from courses and tutorials. 
+### I'm Computer Science student. I'm learning Front/Back End technology from courses and tutorials in addition to my degree courses. 
 
 - I'm coding high-volume and scalable software
 - I'm Creating web applications using React/Node and other technologies
