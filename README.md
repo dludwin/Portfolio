@@ -1,6 +1,11 @@
 ### Computer Science student. I'm learning Front/Back technology from courses and tutorials. 
-### - HTML, CSS3, Javascript, React
-### I’m learning: Vue.js, Node.js, GraphQL 
+
+Code high-volume and scalable software
+Create web applications using React/Node and other technologies
+Create back end services using Java, SQL, ReST
+Build and develop new user facing experiences
+Partner closely with cross functional teams in design, product and other business units
+
 
 ### My-First-React-app : https://first-react-app-dominikludwin.netlify.app/
 ### Netflix-Clone : https://netflix-clone-dominikludwin.netlify.app/
