@@ -4,4 +4,4 @@
 ### Netflix-Clone : https://netflix-clone-dominikludwin.netlify.app/
 ### You can find me on:
 - LinkedIn: https://www.linkedin.com/in/dominik-ludwin-a144b2158/
-- Mail: dominludwin7@gmail.com
+- Email: dominludwin7@gmail.com
