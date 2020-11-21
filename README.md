@@ -1,4 +1,4 @@
-### I'm Computer Science student. I'm learning Front/Back End technology from courses and tutorials in addition to my degree courses. 
+### I'm Computer Science student. Currently I'm learning Front and Back End technology from courses and tutorials, as a suplement to my degree courses. 
 
 ### My-First-React-app : https://first-react-app-dominikludwin.netlify.app/
 ### Netflix-Clone : https://netflix-clone-dominikludwin.netlify.app/
